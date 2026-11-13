@@ -1,0 +1,7 @@
+id = "my-themes"
+name = "My themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["The Infinity Glitch"]
+description = "A custom dark theme to match with my own visual identity"
+repository = "https://github.com/theinfinityglitch/zed-signal-00-theme"
